@@ -48,11 +48,11 @@ Gojou-MD is a easy to use WhatsApp bot.
 # 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Gojou-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
+* [🧑‍💻 Follow ANTIVIRUS-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Val3Ewv6xCSGCE9fZD0H)
 
 * [🧑‍💻 Join Gojou-Md Group 🧑‍💻](https://t.me/hacktivisthive)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
+* [✅ Join Public Group ⚡]([https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX]
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -69,7 +69,7 @@ Gojou-MD is a easy to use WhatsApp bot.
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) 
+ ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Val3Ewv6xCSGCE9fZD0H) 
 
 ## Support
 
@@ -79,4 +79,4 @@ SUPPORT CHANNEL: <a href="https://https://whatsapp.com/channel/0029Val3Ewv6xCSGC
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
 <b>Version -> 1.0.0</b>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a><a><img src='https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D'/></a>
