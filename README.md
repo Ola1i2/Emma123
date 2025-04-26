@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
-## Gojou-MD Deployment Methods
+## ANTIVIRUS-MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Gojou-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
