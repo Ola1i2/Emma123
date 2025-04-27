@@ -1,85 +1,140 @@
-# EMMA-123-MD
-
-![BACKGROUND IMAGE](https://files.catbox.moe/ek81hm.jpg)
-  
-
-<p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By Cyber Tech Admin </u>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-<p align="center">
+
+
+
+
+
+# EMMA-XMD
+
+l know you might that EMMA-XMD is a spam to your account but we have fixed all that and Suhail md is now back to be your first bot 
+
+![KingZord263](https://files.catbox.moe/ek81hm.jpg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+EMMA+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
+</h3>
+
+
 
 <p align="center">
-  <a href="(https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-<p align="center">
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-#
 
-## EMMA 123 MD Deployment Methods
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=EMMA-XMD)
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Gojou-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
- OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) for more**
-9. **All Tutorials Are `COMING SOON`**
 
-<a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a><a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a>
+## 🚀 Deployment Steps
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
+### 1. Fork This Repository
+
+First star & Fork the repo using the button below!
+
+[![FORK_REPOSITORY](https://img.shields.io/badge/FORK_REPOSITORY-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Ola1i2/Emma123/fork)
+
+---
+
+### 2. Get Session ID
+
+### 😆 PORTAL CODE
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+
+
+#### 😆 OPTION ONE
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+
+#### 😉 OPTION TWO
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+
+> Connection issues may require VPN activation.
+
+---
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@HacktivistHive"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+## 🚀 DEPLOYMENT OPTIONS
+
+| Heroku | TalkDrove |
+|--------|-----------|
+| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/Ola1i2/EMMA123/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/share-bot/11) |
+
+| Koyeb | Railway |
+|-------|---------|
+| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=Ola1i2/EMMA123) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
+
+| Render | Netlify |
+|--------|---------|
+| [![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/web/new) | [![Netlify](https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000)](https://app.netlify.com/) |
 <p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# 
-Gojou-MD is a easy to use WhatsApp bot. 
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-      Gojou-MD whatsapp bot is an easy to use whatsapp robot.   |  Itachi Uchiha whatsapp bot
-# 
-# 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
+#### DEPLOY TO RENDER
 
-* [🧑‍💻 Follow ANTIVIRUS-MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029Val3Ewv6xCSGCE9fZD0H)
+<p align="left">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
 
-* [🧑‍💻 Join Gojou-Md Group 🧑‍💻](https://t.me/hacktivisthive)
+#### DEPLOY TO HOST.TALKDROVE
 
-* [✅ Join Public Group ⚡]([https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX]
+[`TalkDrove`](https://host.talkdrove.com/)
 
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-      ⚠️ We are not responsible for any inconvenience caused by your mistakes!
+#### DEPLOY TO CODESPACE
+
+ If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+                      
+    
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+
+
+![Background Image](https://files.catbox.moe/3z60b8.jpg)
+  <p align="center">
+<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
+
+
+> Don't forget to fork & star the repo!
+
+# THANKS TO 
+
+
+ EMMA MD TECH 
+
+FOLLOW FOR UPDATES
+
+
+
+>
+[🧑‍💻 Follow Our Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029Vb5hFzL3WHTeLOr4Cu3q)
+
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/L0BTnI9JyxoCcCKCQiyn2h)
   
-## 
+* [Contact the dev🏆](https://wa.me/263718036108)
+ 
 
-- *Gojou-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Gojou-Md at your own risk by keeping this warning in mind.*
-  
-  #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/[Ola1i2]/count.svg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+EMMA+XMD+V3+Edition+by+SUHAIL+KINGS;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Val3Ewv6xCSGCE9fZD0H) 
+BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
 
-## Support
+</h3>
 
-SUPPORT CHANNEL: <a href="https://https://whatsapp.com/channel/0029Val3Ewv6xCSGCE9fZD0H"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Ola1i2)
-<b>Version -> 1.0.0</b>
-
-<a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a><a><img src='https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D'/></a>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
