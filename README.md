@@ -1,10 +1,13 @@
-  # ANTIVIRUS
-   <a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a><a><img src='[https://i.imgur.com/LyHic3i.gif](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)'/></a>
+# EMMA-123-MD
+
+![BACKGROUND IMAGE](https://files.catbox.moe/ek81hm.jpg)
+  
+
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By Ogundare Emmanuel⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By Cyber Tech Admin </u>
 </p>
 <p align="center">
-<img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D"/>       
+
 <p align="center">
   <a href="(https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG-20250424-WA0225.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-04-25T00%3A10%3A23.545Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fa29fd9f21d464e89%2FIMG-20250424-WA0225.jpg%3FExpires%3D1840234224%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DnMP7nWbjhySkGytXryUlIrb8cHp0WgtzwsYXBLK7fKlfEz2AKJLtQhEkwj8n8WcKtoEZmWRd8U6hfpfHUZF-W7UlzK29ig69Ym69noLVlv6ngCGcbpfkEkk4qWoMyYZRtf482MmFghcDbf8u7eJ-LQJTPq5nfMaXZ7jAYRXqup4ADMDwNWfyGbMGGTBTrlcYjO1VYmK9iva8LrdhY4vcfI7wK9B8JSkKop6q0ZoNiVWiy21ho8kuRs-XA8akJ6H4o4UsrDmOrge2UR9kKHZ6LBRP-OfYuWn~XV8NWkUr6vlm~D0H31McXKySWcxNqU6beTVINQZcFna0gqi2VC6I~Q__%22%7D)"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
 </p> 
@@ -20,7 +23,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
-## ANTIVIRUS-MD Deployment Methods
+## EMMA 123 MD Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Gojou-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
